@@ -252,7 +252,7 @@ label_encoders = joblib.load('label_encoders.pkl')
 
 **Anderson PM** - *Analista de Machine Learning Júnior*
 - GitHub: [@AndersonPM15](https://github.com/AndersonPM15)
-- LinkedIn: [Anderson PM](https://linkedin.com/in/anderson-pm)
+- LinkedIn: [Anderson Machado](https://www.linkedin.com/in/apm15/)
 
 ---
 
